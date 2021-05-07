@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+}
+
+.container h1{
+    margin-bottom: 15px;
+}
+
+.container input{
+    margin-bottom: 15px;
+    padding: 4px;
+    font-size: 15px;
+}

@@ -1,0 +1,11 @@
+.notice{
+    border-radius: 5px;
+    border: 1px solid #b13614;
+    background-color: rgba(242, 74, 24, 0.71);
+    color: #b13614;
+    text-align: center;
+    font-family: Arial;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+}
